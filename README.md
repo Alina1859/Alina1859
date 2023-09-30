@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Hey 👋, I'm Alina</h2>
+<p>
 
-<!--
-**Alina1859/Alina1859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a novice front-end developer. I'm constantly evolving and learning new technologies to stay up-to-date, but for now, they only trust me to paint the button.
 
-Here are some ideas to get you started:
+Please wait a bit, very soon I will have something to brag about on this page.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+## 🚀 My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nodejs,mongodb,nginx,express)](https://skillicons.dev)
+
+
+<a href="https://github.com/Alina1859/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alina1859&layout=compact&theme=buefy&hide_border=true" /></a>
