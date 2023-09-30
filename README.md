@@ -5,7 +5,7 @@ I'm a novice front-end developer. I'm constantly evolving and learning new techn
 
 Please wait a bit, very soon I will have something to brag about on this page.</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## 🚀 My Tech Stack
 
