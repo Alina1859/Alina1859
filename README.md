@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Alina</h2>
 <p>
 
-I'm a novice front-end developer. I'm constantly evolving and learning new technologies to stay up-to-date, but for now, they only trust me to paint the button.
+I'm a Junior Front-end Developer. I'm constantly evolving and learning new technologies to stay up-to-date, but for now, they only trust me to paint the button.
 
 Please wait a bit, very soon I will have something to brag about on this page.</p>
 
