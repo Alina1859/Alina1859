@@ -2,8 +2,8 @@
 <a href="https://t.me/alina1859ts">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Ссылка на телеграм"/>
     </a>
-    <a href="mailto:Alina1859W@yandex.com">
-      <img src="https://img.shields.io/badge/email-Alina1859W@yandex.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Ссылка на email"/>
+    <a href="mailto:alina1859w@gmail.com">
+      <img src="https://img.shields.io/badge/email-alina1859w@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Ссылка на email"/>
     </a>
 <p>
 
